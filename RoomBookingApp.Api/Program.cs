@@ -51,7 +51,3 @@ app.UseAuthorization();
 app.MapControllers();
 
 app.Run();
-
-// Comment
-// Comment
-// Comment
