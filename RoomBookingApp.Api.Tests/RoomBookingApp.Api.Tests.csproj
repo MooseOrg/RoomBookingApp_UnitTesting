@@ -7,7 +7,6 @@
 
     <IsPackable>false</IsPackable>
     <IsTestProject>true</IsTestProject>
-    <RootNamespace>RoomBookingApp.Core</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
@@ -26,7 +25,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\RoomBookingApp.Core\RoomBookingApp.Core.csproj" />
+    <ProjectReference Include="..\RoomBookingApp.Api\RoomBookingApp.Api.csproj" />
   </ItemGroup>
 
   <ItemGroup>
